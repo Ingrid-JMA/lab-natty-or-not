@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Aprendendo IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto tem por finalidade conhecer algumas possibilidades de utilização de  IAs Generativas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Coloquei informações (Família feliz na praia, sol, mar azul, água de coco)
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Aparecerem duas famílias (de três pessoas cada) uma imagem estava bem natural (pai, mãe e filho no cenário solicitado) e a outra (3 adolescentes), sendo duas moças e um rapaz (embora as pessoas e o cenários estarem conforme colocado, observou-se falha na roupa do rapaz (ele estava usando parte do mesmo top das meninas).
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Embora a falha na segunda imagem a exeperiência foi interessante.
 ```
 
 ### Exemplos e Insigths
